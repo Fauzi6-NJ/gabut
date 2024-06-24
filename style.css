@@ -78,5 +78,5 @@ input:checked ~ label::after{
 }
 
 footer {
-  font-size: 1px;
+  font-size: 15px;
 }
